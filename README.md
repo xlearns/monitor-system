@@ -1,0 +1,5 @@
+- Features
+  - Support source maps to restore locations
+  - Error collection and analysis for React、Vue
+  - Error aggregation and analysis
+  - Multi-dimensional log information
